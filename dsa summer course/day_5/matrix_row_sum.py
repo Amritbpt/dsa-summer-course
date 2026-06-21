@@ -17,6 +17,3 @@ matrix = [
 ]
 
 print(row_sums(matrix))
-for column in matrix:
-    column.sort()
-print(matrix)

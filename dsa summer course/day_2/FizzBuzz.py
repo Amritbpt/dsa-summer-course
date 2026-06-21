@@ -10,3 +10,6 @@ for i in range(1,31,1):
 
     else:
         print(i)
+
+for i in range(10):
+    print(i)
