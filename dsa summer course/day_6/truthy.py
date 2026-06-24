@@ -6,7 +6,6 @@ for value in values:
     else:
         truth_value = "Falsy"
 
-    print("Value:", value)
-    print("Truthiness:", truth_value)
-    print("Type:", type(value))
+    print(f"Value: {value} and Truthiness: {truth_value}")
+    
     
